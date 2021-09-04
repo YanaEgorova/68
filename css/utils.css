@@ -22,6 +22,12 @@ body {
   display: block;
   height: auto;
 }
+span {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+}
 h1,
 h2,
 h3,

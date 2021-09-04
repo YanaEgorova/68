@@ -31,6 +31,9 @@ caption .text {
 .pd-lf {
     padding-left: 1rem;
 }
+table:not(:last-child) {
+    margin-bottom: 8rem;
+}
 @media screen and (min-width: 1024px)  {
 
 }
