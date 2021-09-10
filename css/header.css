@@ -2,6 +2,7 @@
     background-color: var(--first-brand-color);
 }
 .header {
+    width: 100%;
     padding: 2rem 2rem;
     display: flex;
     align-items: center;

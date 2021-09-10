@@ -6,6 +6,12 @@ body {
   position: relative;
   background-color: var(--third-brand-color);
 }
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
 *,
 *::before,
 *::after {
@@ -60,6 +66,7 @@ button:focus {
   outline: none;
 }
 .container {
+  width: 100%;
   padding: 5rem 2rem;
   max-width: 120rem;
   margin-left: auto;

@@ -35,6 +35,12 @@
     align-items: center;
     max-width: max-content;
 }
+.contact__link-box {
+    margin-bottom: 2rem;
+}
+.footer__icon-box .text {
+    margin-bottom: 0;
+}
 .footer__icon {
     width: 2rem;
     margin-right: 1rem;
